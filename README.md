@@ -142,6 +142,9 @@ Example Response:
 ## 🔹 Authors
 
 * \Prasun Kundu
+* Iman Haider
+* Md A khan
+* C sonker
 * Final Year Project, Department of Electrical & Electronics Engineering
 
 ---
